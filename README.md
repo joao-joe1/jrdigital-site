@@ -39,7 +39,3 @@ src/
 ## WhatsApp
 
 Número configurado em `src/lib/utils.ts`:
-
-```ts
-export const WHATSAPP_NUMBER = "5531983024395";
-```
